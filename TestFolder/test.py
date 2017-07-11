@@ -1,5 +1,3 @@
 print "Hello its me"
 
-print "Added new line"
-
-print "Add new line 5"
+print "Added Line 6"
